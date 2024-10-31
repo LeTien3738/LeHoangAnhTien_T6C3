@@ -26,24 +26,20 @@
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" />
 <h2>✒️ Recent Posts</h2>
-<a target="_blank" href="https://tenor.com/vi/view/anime-hacking-speed-fast-gif-22746564">
+<a target="_blank" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-computer-gif-anime-computer-pc-descubre-comparte-gifs--615867317802196373%2F&psig=AOvVaw26vM3PqZWzG8-Z_WPQ4Lnh&ust=1730478152527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD6rNCDuYkDFQAAAAAdAAAAABAE">
     <img src="https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif" 
-         alt="Công cuộc gõ code hoàn thành kịp tiến độ của tôi" width="400"/>
+         alt="Công cuộc gõ code của tôi" width="400"/>
 </a>
-<p>Công cuộc gõ code hoàn thành kịp tiến độ của tôi</p>
+<p>Công cuộc gõ Code</p>
 </a><h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/Khôi Nguyên" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/Nguyên" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/Phạm Khôi Nguyên" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.youtube.com/@KhôiNguyênPhạm-26IQ" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/Nguyen26" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KhoiNguyen26iq&show_icons=true&locale=en" alt="KhoiNguyen26iq" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhoiNguyen26iq&" alt="KhoiNguyen26iq" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoiNguyen26iq&show_icons=true&locale=en&layout=compact" alt="KhoiNguyen26iq" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KhoiNguyen26iq" alt="KhoiNguyen26iq" /></a></p>
+<p><a target="_blank" href="https://twitter.com/LeTien" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/Tien" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.facebook.com/LeTien" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.youtube.com/@LeTien3738" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/NguyenKhoi">
+<a href="https://www.buymeacoffee.com/LeTien">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
