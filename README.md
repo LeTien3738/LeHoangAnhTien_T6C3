@@ -4,7 +4,7 @@
 <p>🌱 Về bản thân tôi muốn tím tòi và học thêm công nghệ mới</p>
 <p>📄 Công việc mong muốn là 1 người Thiết kế Frontend</p>
 <p>📫 Hãy liên hệ tôi qua đường link Facebook,Email và Discord </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Ngôn ngữ và công cụ tôi sử dụng</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
@@ -24,6 +24,7 @@
 <a target="_blank" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-computer-gif-anime-computer-pc-descubre-comparte-gifs--615867317802196373%2F&psig=AOvVaw26vM3PqZWzG8-Z_WPQ4Lnh&ust=1730478152527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD6rNCDuYkDFQAAAAAdAAAAABAE">
     <img src="https://i.pinimg.com/originals/f2/cf/8d/f2cf8db002f228e3385f6f6c33ea64b4.gif" 
          alt="Công cuộc gõ code của tôi" width="4IT</p>
+        
 </a><h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/LeTien" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/Tien" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
