@@ -1,9 +1,9 @@
 # LeHoangAnhTien_T6C3
-<h1>Hi 👋, Tôi là Lê Hoàng Anh Tiến </h1>
+<h1>Hi, Tôi là Lê Hoàng Anh Tiến </h1>
 <p>👨‍💻 Tôi hiện đang học tập tại Trường Đại Học Ngoại Ngữ - Tin Học Thành Phố Hồ Chí Minh</p>
 <p>🌱 Về bản thân tôi muốn tím tòi và học thêm công nghệ mới</p>
 <p>📄 Công việc mong muốn: Là 1 người Thiết kế Frontend</p>
-<p>📫 Nếu cần, hãy liên hệ tôi qua đường link Facebook hoặc Gmail của tôi</p>
+<p>📫 Hãy liên hệ tôi qua đường link Facebook hoặc Gmail của tôi</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -48,7 +48,7 @@
 </a>
 </p>
 <p>
-<a href="https://www.ko-fi.com/NguyenKhoi">
+<a href="https://www.ko-fi.com/LeTien">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
 </p>
