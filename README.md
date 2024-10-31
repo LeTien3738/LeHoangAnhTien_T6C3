@@ -23,7 +23,7 @@
 <h2>✒️ Recent Posts</h2>
 <a target="_blank" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-computer-gif-anime-computer-pc-descubre-comparte-gifs--615867317802196373%2F&psig=AOvVaw26vM3PqZWzG8-Z_WPQ4Lnh&ust=1730478152527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD6rNCDuYkDFQAAAAAdAAAAABAE">
     <img src="https://i.pinimg.com/originals/f2/cf/8d/f2cf8db002f228e3385f6f6c33ea64b4.gif" 
-                 alt="1 ngày với đống code" width="400"/code</p>
+                 
        <p>1 ngày với đống code</p>
         
 </a><h2>⚡️ Where to find me</h2>
