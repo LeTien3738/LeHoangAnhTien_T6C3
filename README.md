@@ -27,7 +27,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" />
 <h2>✒️ Recent Posts</h2>
 <a target="_blank" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-computer-gif-anime-computer-pc-descubre-comparte-gifs--615867317802196373%2F&psig=AOvVaw26vM3PqZWzG8-Z_WPQ4Lnh&ust=1730478152527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD6rNCDuYkDFQAAAAAdAAAAABAE">
-    <img src="[https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F55911&psig=AOvVaw26vM3PqZWzG8-Z_WPQ4Lnh&ust=1730478152527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD6rNCDuYkDFQAAAAAdAAAAABAJ)" 
+    <img src="https://i.pinimg.com/originals/f2/cf/8d/f2cf8db002f228e3385f6f6c33ea64b4.gif" 
          alt="Công cuộc gõ code của tôi" width="400"/>
 </a>
 <p>Công cuộc gõ Code</p>
