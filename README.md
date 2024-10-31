@@ -1,9 +1,9 @@
 # LeHoangAnhTien_T6C3
 <h1>Hi, Tôi là Lê Hoàng Anh Tiến </h1>
-<p>👨‍💻 Tôi hiện đang học tập tại Trường Đại Học Ngoại Ngữ - Tin Học Thành Phố Hồ Chí Minh</p>
+<p>👨‍💻 Tôi hiện đang học tập tại Trường Đại Học Ngoại Ngữ - Tin Học Thành Phố Hồ Chí Minh (HUFLIT)</p>
 <p>🌱 Về bản thân tôi muốn tím tòi và học thêm công nghệ mới</p>
-<p>📄 Công việc mong muốn: Là 1 người Thiết kế Frontend</p>
-<p>📫 Hãy liên hệ tôi qua đường link Facebook hoặc Gmail của tôi</p>
+<p>📄 Công việc mong muốn là 1 người Thiết kế Frontend</p>
+<p>📫 Hãy liên hệ tôi qua đường link Facebook</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -27,7 +27,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" />
 <h2>✒️ Recent Posts</h2>
 <a target="_blank" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-computer-gif-anime-computer-pc-descubre-comparte-gifs--615867317802196373%2F&psig=AOvVaw26vM3PqZWzG8-Z_WPQ4Lnh&ust=1730478152527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD6rNCDuYkDFQAAAAAdAAAAABAE">
-    <img src="https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif" 
+    <img src="[https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F55911&psig=AOvVaw26vM3PqZWzG8-Z_WPQ4Lnh&ust=1730478152527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD6rNCDuYkDFQAAAAAdAAAAABAJ)" 
          alt="Công cuộc gõ code của tôi" width="400"/>
 </a>
 <p>Công cuộc gõ Code</p>
