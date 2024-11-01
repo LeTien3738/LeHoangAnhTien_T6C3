@@ -1,9 +1,9 @@
 # LeHoangAnhTien_T6C3
 <h1>Hi, Tôi là Lê Hoàng Anh Tiến </h1>
 <p>👨‍💻 Tôi hiện đang học tập tại Trường Đại Học Ngoại Ngữ - Tin Học Thành Phố Hồ Chí Minh (HUFLIT)</p>
-<p>🌱 Về bản thân tôi muốn tím tòi và học thêm công nghệ mới</p>
+<p>🌱 Về bản thân tôi là 1 sinh viên năm 3 học ngành Công Nghệ Thông Tin</p>
 <p>📄 Công việc mong muốn là 1 người Thiết kế Frontend</p>
-<p>📫 Hãy liên hệ tôi qua đường link Facebook,Email và Discord </p>
+<p>📫 Hãy liên hệ tôi qua đường link Facebook,Email</p>
 <h2>🚀 Ngôn ngữ và công cụ tôi sử dụng</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
